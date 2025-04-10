@@ -50,15 +50,6 @@ An interactive terminal interface was built to let users explore the data throug
 
 ---
 
-## 🧠 Sample Code Snippets
-
-### ➤ User Input Collection
-
-```python
-city = input("Enter city (chicago, new york city, washington): ").lower()
-month = input("Choose month (all, january, february, ..., june): ").lower()
-day = input("Choose day (all, monday, tuesday, ..., sunday): ").lower()
-
 # 🚲 [Second Project: Communicate Data Findings](https://github.com/your-username/Communicate-Data-Findings)
 
 This is a **data wrangling** and **visualization** project where I analyzed loan data to uncover key trends in loan amounts, monthly payments, APRs, and loan terms.  
